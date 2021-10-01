@@ -13,8 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 <h3> 🧑‍🦱 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Web developer.
-- 🤔 &nbsp; Learning new technologies.
+<h4>🎓 &nbsp;Studies</h4>
+<ul>
+  <li>Microcomputer systems and network technician</li>
+  <li>Web developing</li>
+</ul>
 
 <h3> 🛠 &nbsp;Skills</h3>
 
