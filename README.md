@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2> Hello, I'm Cristian!!! Welcome to my Github!!! </h2>
 
-<h3> 🧑‍🦱 &nbsp;About Me </h3>
+<h3> 👦 &nbsp;About Me </h3>
 
 <h4>🎓 &nbsp;Studies</h4>
 <ul>
