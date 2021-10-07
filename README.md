@@ -59,6 +59,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href="mailto:cjuaniestacio@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cjuaniestacio@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/cristian-juan-saez-35016b1a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 <p align="center">
