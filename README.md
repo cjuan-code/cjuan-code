@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br/>
 
-<h3> 🤝🏻 &nbsp;Contact with Me </h3>
+<h3> 🤝🏻 &nbsp;Contact me </h3>
 
 <p align="center">
 <a href="mailto:cjuaniestacio@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cjuaniestacio@gmail.com-blue?style=flat-square&logo=gmail"></a>
