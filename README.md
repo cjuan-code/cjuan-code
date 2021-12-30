@@ -23,15 +23,19 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
+- Frontend 🌐 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
-  ![ExpressJS](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![PHP](  https://img.shields.io/badge/-PHP%20OOP-333333?style=flat&logo=php)
+  ![Vue3](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![JQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery)
+- Backend 🌐 &nbsp;
+  ![Go](https://img.shields.io/badge/Go-333333?style=flat&logo=go)
+  ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel)
+  ![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+  ![ExpressJS](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express)
+  ![PHP](  https://img.shields.io/badge/-PHP%20OOP-333333?style=flat&logo=php)
 - 🎨 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=white) 
