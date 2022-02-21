@@ -26,11 +26,13 @@ You can click the Preview link to take a look at your changes.
 - Frontend 🌐 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Vue3](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![JQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery)
 - Backend 🌐 &nbsp;
   ![Go](https://img.shields.io/badge/Go-333333?style=flat&logo=go)
   ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel)
+  ![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django)
   ![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
   ![ExpressJS](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express)
   ![PHP](  https://img.shields.io/badge/-PHP%20OOP-333333?style=flat&logo=php)
